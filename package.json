@@ -1,0 +1,20 @@
+{
+  "name": "h1125m-cli-number-guessing",
+  "version": "1.0.2",
+  "description": "This is cli based numbers gueesing game.....",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Hasan...",
+  "license": "MIT",
+  "dependencies": {
+    "h1125m-cli-number-guessing": "^1.0.1",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
